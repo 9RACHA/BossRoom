@@ -9,7 +9,7 @@ Entregable:
 Informe con capturas do proceso e das probas
 
 
-##Informe
+## Informe
 
 ![image](https://github.com/9RACHA/BossRoom/assets/66274956/21f69677-06ac-440b-bafe-98180c8de231)
 
