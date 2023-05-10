@@ -19,6 +19,9 @@ Informe con capturas do proceso e das probas
 
 ![image](https://github.com/9RACHA/BossRoom/assets/66274956/88e30f40-44b0-48da-9d81-faafbf8d71a7)
 
+![image](https://github.com/9RACHA/BossRoom/assets/66274956/cfdca813-19d5-4ab7-aea5-5af30185b6e0)
+
+
 Por defecto el juego no tenia implementado el Relay Server, por eso, al Desconectarse el Host de la partida y pasar unos segundos, la partida acabaria o finalizaria abruptamente sin ninguna opcion de seguir.
 
 Gracias a añadir del Relay server, esto ya no ocurrira ya que si desconecta el Host habra un reintento de conexion con el relay server o se buscara otro Host disponible. 
